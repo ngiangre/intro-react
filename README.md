@@ -43,6 +43,13 @@ npm create vite@latest my-react-app -- --template react
 
 ## hello-world
 
-I created a new folder `hello-world` and copied minimum needed files from `my-react-app` to just show Hello World!
+I created a new folder `hello-world` and copied minimum needed files from `my-react-app` to just show Hello World! Run `npm install` to  include dependencies.
 
 ![](hello-world-app.png)
+
+## my-profile
+
+I created a new app with `npx create-react-app@latest my-profile` (Documented at the [React website](https://create-react-app.dev/docs/getting-started/)).
+
+Using bootstrap classes [as shown on the website](https://getbootstrap.com/docs/4.0/getting-started/introduction/), I show a modified example from the [React learn page](https://react.dev/learn).
+
