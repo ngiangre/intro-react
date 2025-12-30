@@ -53,3 +53,4 @@ I created a new app with `npx create-react-app@latest my-profile` (Documented at
 
 Using bootstrap classes [as shown on the website](https://getbootstrap.com/docs/4.0/getting-started/introduction/), I show a modified example from the [React learn page](https://react.dev/learn).
 
+![](my-profile.png)
