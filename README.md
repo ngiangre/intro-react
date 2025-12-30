@@ -45,3 +45,4 @@ npm create vite@latest my-react-app -- --template react
 
 I created a new folder `hello-world` and copied minimum needed files from `my-react-app` to just show Hello World!
 
+![](hello-world-app.png)
